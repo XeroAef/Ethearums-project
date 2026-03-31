@@ -3,10 +3,10 @@ const chartDataByStudent = {
         name: "Ornir Iofurbiorn Skorargeirr",
         stats: {
             strength: 7,
-            speed: 6,
+            speed: 6.5,
             reliability: 8,
-            karmaticpower: 7,
-            endurance: 7,
+            karmaticpower: 8,
+            endurance: 6.5,
             potential: 9
         }
     },
@@ -16,8 +16,8 @@ const chartDataByStudent = {
             strength: 6.5,
             speed: 8,
             reliability: 7,
-            karmaticpower: 5,
-            endurance: 8,
+            karmaticpower: 6.5,
+            endurance: 5.5,
             potential: 9
         }
     },
@@ -25,10 +25,10 @@ const chartDataByStudent = {
         name: "Saerian Entai",
         stats: {
             strength: 7,
-            speed: 7.5,
+            speed: 7,
             reliability: 8,
-            karmaticpower: 9,
-            endurance: 6,
+            karmaticpower: 8.5,
+            endurance: 7,
             potential: 9
         }
     },
@@ -83,7 +83,7 @@ const chartDataByStudent = {
             speed: 8.5,
             reliability: 7,
             karmaticpower: 8,
-            endurance: 8,
+            endurance: 7.5,
             potential: 9
         }
     },
@@ -116,7 +116,7 @@ const chartDataByStudent = {
             speed: 7.5,
             reliability: 6,
             karmaticpower: 8,
-            endurance: 9,
+            endurance: 7,
             potential: 9
         }
     },
@@ -126,8 +126,8 @@ const chartDataByStudent = {
             strength: 8.5,
             speed: 8,
             reliability: 8,
-            karmaticpower: 7,
-            enudrance: 7,
+            karmaticpower: 5,
+            enudrance: 9,
             potential: 9
         }
     },

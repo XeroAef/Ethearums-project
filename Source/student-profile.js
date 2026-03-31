@@ -123,8 +123,18 @@ function getStudentId() {
 function loadStudentProfile() {
     const studentId = getStudentId();
     const student = studentData[studentId];
+    const specialStatsButton = document.getElementById('specialStatsButton');
     
     document.getElementById('studentId').textContent = studentId;
+
+    if (specialStatsButton) {
+        if (studentId === '4') {
+            specialStatsButton.style.display = 'inline-block';
+            specialStatsButton.href = `student4-special.html?id=${encodeURIComponent(studentId)}`;
+        } else {
+            specialStatsButton.style.display = 'none';
+        }
+    }
     
     if (student) {
         document.getElementById('studentName').textContent = student.name;
