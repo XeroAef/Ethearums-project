@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Student Profile</title>
+        <link rel="stylesheet" href="../Assets/Style/homepage.css">
+    </head>
+    <body>
+        <div class="document-container">
+            <div class="classification">█ CLASSIFIED █</div>
+            <h1>Student Profile</h1>
+            
+            <div class="student-image-corner">
+                <img id="studentImage" src="" alt="Student Photo">
+            </div>
+            
+            <div class="profile-section">
+                <h3>Student ID: <span id="studentId"></span></h3>
+                
+                <h3 style="margin-top: 25px;">Name</h3>
+                <p><strong> <span id="studentName">-</span> </strong></p>
+                
+                <h3>Physical Grade</h3>
+                <p><strong> <span id="studentPhysicalgrade">-</span></p> </strong>
+                
+                <h3>Karmatic Stats</h3>
+                <p><strong> <span id="studentKarmaticgrade">-</span></p> </strong>
+                
+                <h3>Notes</h3>
+                <p id="studentNotes">No additional notes.</p>
+
+                <h3>Visual Statistics</h3>
+                <p id="chartStudentLabel">Loading chart...</p>
+                <div class="chart-wrapper">
+                    <canvas id="studentChart" class="student-chart" width="840" height="420"></canvas>
+                    <div id="chartLegend" class="chart-legend"></div>
+                </div>
+                
+                <a href="homepage.html" class="back-link">← Return to Student List</a>
+            </div>
+            
+            <div class="document-footer">
+                ────────────────────────────────────
+                END OF CLASSIFIED DOCUMENT
+                ────────────────────────────────────
+            </div>
+        </div>
+        
+        <script src="../Source/student-profile.js"></script>
+        <script src="../Source/graphstats.js"></script>
+    </body>
+</html>
