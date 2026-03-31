@@ -23,7 +23,7 @@ const studentData = {
         name: "Örnir Iofurbiorn Skorargeirr",
         physicalgrade: "7/10",
         karmaticgrade: "Adept 1",
-        notes: "Örnir Iofurbiorn Skorargeirr is a student capable of wielding the Form 'Niflheim', allowing him to manipulate ice and cold. 7/10 in strength. 8/10 in reliability. Overall: 7/10."
+        notes: "Örnir Iofurbiorn Skorargeirr is a student capable of wielding the Form 'Niflheim', allowing him to manipulate ice and cold. 8/10 in strength. 8/10 in reliability. Overall: 7/10."
     },
     2: {
         name: "Seth Trigi",

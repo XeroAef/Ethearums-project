@@ -2,7 +2,7 @@ const chartDataByStudent = {
     1: {
         name: "Ornir Iofurbiorn Skorargeirr",
         stats: {
-            strength: 7,
+            strength: 8,
             speed: 6.5,
             reliability: 8,
             karmaticpower: 8,
@@ -14,7 +14,7 @@ const chartDataByStudent = {
         name: "Seth Trigi",
         stats: {
             strength: 6.5,
-            speed: 8,
+            speed: 9,
             reliability: 7,
             karmaticpower: 6.5,
             endurance: 5.5,
@@ -47,9 +47,9 @@ const chartDataByStudent = {
         name: "Asuka Rui",
         stats: {
             strength: 8,
-            speed: 9,
+            speed: 8.5,
             reliability: 7,
-            karmaticpower: 8,
+            karmaticpower: 7,
             endurance: 7.5,
             potential: 9
         }
@@ -69,9 +69,9 @@ const chartDataByStudent = {
         name: "Keo Mavena",
         stats: {
             strength: 5,
-            speed: 6.5,
+            speed: 7,
             reliability: 7,
-            karmaticpower: 7,
+            karmaticpower: 6.5,
             endurance: 6,
             potential: 9
         }
@@ -82,7 +82,7 @@ const chartDataByStudent = {
             strength: 8,
             speed: 8.5,
             reliability: 7,
-            karmaticpower: 8,
+            karmaticpower: 6,
             endurance: 7.5,
             potential: 9
         }
@@ -115,7 +115,7 @@ const chartDataByStudent = {
             strength: 8,
             speed: 7.5,
             reliability: 6,
-            karmaticpower: 8,
+            karmaticpower: 6,
             endurance: 7,
             potential: 9
         }
@@ -148,7 +148,7 @@ const chartDataByStudent = {
             strength: 7,
             speed: 8.5,
             reliability: 8,
-            karmaticpower: 8.5,
+            karmaticpower: 8,
             endurance: 9,
             potential: 9
         }
@@ -159,7 +159,7 @@ const chartDataByStudent = {
             strength: 7,
             speed: 7.5,
             reliability: 8,
-            karmaticpower: 1.5,
+            karmaticpower: 0.5,
             endurance: 8,
             potential: 9
         }
