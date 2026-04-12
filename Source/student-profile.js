@@ -40,7 +40,7 @@ const studentData = {
     4: {
         name: "Thal'Vyrn",
         physicalgrade: "4/10 - 10/10 depending on the spirit form taken, base of 6/10",
-        karmaticgrade: "Adept 1",
+        karmaticgrade: "Disciple 5",
         notes: "Thal'Vyrn is a student capable of changing spirit forms, and wielding the Form 'Wood Manipulation', a byproduct of being a half-spirit, the Form allows him to manipulate plant life and nature. 4/10 to 10/10 in Strength. 8/10 in Reliability. Overall: 9/10."
 
     },
@@ -59,7 +59,7 @@ const studentData = {
     7: {
         name: "Keo Mavena",
         physicalgrade: "5/10",
-        karmaticgrade: "Adept 1",
+        karmaticgrade: "Disciple 5",
         notes: "Keo Mavena is a student capable of wielding the Form 'Ride the Lightning', allowing him to manipulate electricity similar to the student Seth Trigi, however this one can create weapons out of it. 5/10 in Strength, 7/10 in Reliability, Overall: 6.5/10."
 
     },
@@ -79,25 +79,25 @@ const studentData = {
     10: {
         name: "Midra Izuhana",
         physicalgrade: "9/10",
-        karmaticgrade: "Adept 1",
+        karmaticgrade: "Disciple 5",
         notes: "Midra Izuhana is the current leader of the class, a student capable of wielding the Form 'Carian Swords Arts', a Form allowing him to harness karma in order to shape it into a longsword purely made out of karma, alongside minor enhancements to his physical capabilities. 9/10 in Strength, 8/10 in Reliability, Overall: 9/10."
     },
     11: {
         name: "Lysander Stalwart",
         physicalgrade: "8/10",
-        karmaticgrade: "Adept 1",
+        karmaticgrade: "Disciple 5",
         notes: "Lysander Stalwart is a student capable of wielding the Form 'Flame Within', replacing his stomach by a furnace. Burning fuel into the stomach produces heat which is evenly distributed through the body, and can increase his temperature between 80°C to 700°C. 8/10 in Strength, 6/10 in Reliability, Overall: 8/10."
     },
     12: {
         name: "Rakna Pyrachne",
         physicalgrade: "8/10",
-        karmaticgrade: "Adept 1",
+        karmaticgrade: "Disciple 5",
         notes: "Rakna Pyrachne is a student capable of wielding a Form that manipulates and generates threads that she can heat up on her own. 9/10 in Strength, 8/10 in Reliability, Overall: 8.5/10." 
     },
     13: {
         name: "Exodeus Ryui",
         physicalgrade: "5/10",
-        karmaticgrade: "Adept 1",
+        karmaticgrade: "Disciple 5",
         notes: "Exodeus Ryui is a student capable of wielding karma in its purest state, allowing him to generate karmatic attacks and shields. 8/10 in Strength, 9/10 in Reliability, Overall: 9/10."
     },
     14: {
